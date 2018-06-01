@@ -41,7 +41,15 @@ html,body{
 }
 
 
-
+.content3 p{
+  font-family: 'Quicksand',sans-serif;
+  color: Black;
+  font-size: 130%;
+  text-align: center-left;
+  max-width: 970px;
+  
+    
+}
 
 .content .btn{
  border-radius: 9px;
@@ -57,6 +65,24 @@ html,body{
 .content .btn:hover{
   color: blue;
 }
+
+
+.content1 .in2{
+ border-radius: 4px;
+  color: white;
+  text-decoration: none;
+  font-family: 'Quicksand',sans-serif;
+  border: 3px solid;
+  padding: 7px 13px;
+  
+   font-size: 100%;
+   background-color: Black;
+}
+.content1 .in2:hover{
+  color: yellow;
+}
+
+
 p1{
   font-size: 90%;
   line-height: 200%;
