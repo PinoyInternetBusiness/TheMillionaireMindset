@@ -43,6 +43,16 @@ html,body{
   text-align: left;
 }
 
+.content3 p{
+  font-family: 'Quicksand',sans-serif;
+  color: Black;
+  font-size: 130%;
+  text-align: center-left;
+  max-width: 970px;
+  
+    
+}
+
 .content h1{
   font-family: 'Arial';
   color: #f9f3f4;
