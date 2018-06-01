@@ -28,6 +28,13 @@ html,body{
   margin: auto;
   text-align: center;
 }
+
+.content1{
+  max-width: 1000px;
+  margin: auto;
+  text-align: left;
+}
+
 .content h1{
   font-family: 'Arial';
   color: #f9f3f4;
@@ -60,6 +67,25 @@ html,body{
 .content .btn:hover{
   color: blue;
 }
+
+.content1 .in2{
+ border-radius: 4px;
+  color: white;
+  text-decoration: none;
+  font-family: 'Quicksand',sans-serif;
+  border: 3px solid;
+  padding: 7px 13px;
+  
+   font-size: 100%;
+   background-color: Black;
+}
+.content1 .in2:hover{
+  color: yellow;
+}
+
+
+
+
 p1{
   font-size: 90%;
   line-height: 200%;
